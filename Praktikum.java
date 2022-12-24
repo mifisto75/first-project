@@ -1,5 +1,6 @@
 public class Praktikum {
     public sealed void main(){
-        System.out.println("hello user git");
+        int a = 24
+        System.out.println("hello user git"+a);
     }
 }
